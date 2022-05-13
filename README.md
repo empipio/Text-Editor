@@ -1,6 +1,6 @@
 # Text-Editor
 
-For this project I have created a text editor that runs in the browser and can be used both on and offline due to a number of data persistence techniques. An existing application was taken and methods implemented in order to get/store data to an IndexedDB database.
+For this project I have created a text editor that runs in the browser and can be used both on and offline due to various data persistence techniques. An existing application was taken and methods implemented in order to get/store data to an IndexedDB database.
 
 Technologies used include: HTML, CSS, Javascript, Node.js, Express.js, idb, Webpack, and IndexedDB.
 
