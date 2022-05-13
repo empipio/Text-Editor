@@ -4,7 +4,7 @@ For this project I have created a text editor that runs in the browser and can b
 
 Technologies used include: HTML, CSS, Javascript, Node.js, Express.js, idb, Webpack, and IndexedDB.
 
-![app screenshot]()
+![app screenshot](./assets/app-screenshot.png)
 
 The acceptance criteria were as follows:
 
@@ -36,4 +36,4 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-The deployed application is available here:
+The deployed application is available here: https://empipio-text-editor.herokuapp.com/
